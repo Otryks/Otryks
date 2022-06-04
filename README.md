@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Otryks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning html/css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I am **Otryks**, young *Html* and *CSS* web designer. Currently I am learning *JavaScript*. If you want to ask me something, send a message on discord *Otryks#5289*.
 
 <!---
 Otryks/Otryks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
