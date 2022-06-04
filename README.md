@@ -1,4 +1,4 @@
-# 👋 ***Hellow there.***<br>
+# 👋 ***Hello there.***<br>
 ⠀⠀⠀➲ Welcome on my **GitHub profile**.
 
 🌴 **About me.**<br>
