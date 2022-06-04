@@ -1,6 +1,11 @@
-Hi, I am **Otryks**, young *Html* and *CSS* web designer. Currently I am learning *JavaScript*. If you want to ask me something, send a message on discord *Otryks#5289*.
+👋 ***Hi there.***<br>
+⠀⠀⠀➲ Welcome on my **GitHub profile**.
 
-<!---
-Otryks/Otryks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌴 **About me.**<br>
+⠀⠀⠀⠀➤ I am young *HTML / CSS web designer*.<br>
+⠀⠀⠀⠀➤ Currently I am learning *JavaScript*.<br>
+⠀⠀⠀⠀➤ I am from *Czech Republic*.<br>
+
+📪 **How to reach me.**<br>
+⠀⠀⠀⠀➤ On discord *Otryks#5289*.<br>
+⠀⠀⠀⠀➤ Or on *[instagram](https://www.instagram.com/otryks/)*.<br>
