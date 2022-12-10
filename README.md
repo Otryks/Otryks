@@ -6,6 +6,6 @@
 ⠀⠀⠀⠀➤ Currently I am learning *JavaScript*.<br>
 ⠀⠀⠀⠀➤ I am from *[Czech Republic](https://www.google.com/maps/place/%C4%8Cesko/)*.<br>
 
-📪 **How to reach me.**<br>
+📪 **Where to reach me.**<br>
 ⠀⠀⠀⠀➤ On discord *Otryks#5289*.<br>
 ⠀⠀⠀⠀➤ Or on *[instagram](https://www.instagram.com/otryks/)*.<br>
