@@ -24,7 +24,7 @@
 
 * {
     margin: 0px;
-    border: solid red 1px;
+    /* border: solid red 1px; */
 }
 
 html {
@@ -285,22 +285,6 @@ footer {
     border-top: var(--text-color) 1px solid;
 }
 
-footer a {
-    float: right;
-    margin-right: 10%;
-}
-
-footer .footer-info {
-    font-family: 'Poppins', sans-serif;
-    text-align: center;
-    float: right;
-    width: 10%;
-}
-
-footer .footer-info a {
-    text-decoration: none;
-    color: var(--text-color);
-}
 
 /* Animations */
 
