@@ -162,7 +162,7 @@ header img {
     padding-bottom: 15px;
 }
 
-#projects .columns .column .text h2 #online {
+#projects .columns .column .text h2 .online {
     color: var(--online);
     margin: 0 2%;
     padding: 0 2%;
@@ -173,7 +173,7 @@ header img {
     border-radius: 50px;
 }
 
-#projects .columns .column .text h2 #offline {
+#projects .columns .column .text h2 .offline {
     color: var(--offline);
     margin: 0 2%;
     padding: 0 2%;
