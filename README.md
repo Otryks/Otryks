@@ -8,7 +8,8 @@
 
 🔗 **Links**<br>
 ⠀⠀⠀⠀➤ Website *[www.oliveer.eu](https://www.oliveer.eu)*
+https://img.shields.io/badge/Instagram-%40molive.r-darkgreen?style=for-the-badge&logo=instagram&logoColor=Rainbow
 
 📪 **Where to reach me.**<br>
-⠀⠀⠀⠀➤ On discord *molive.r*.<br>
+⠀⠀⠀⠀➤ On discord *molive.r*.<br> 
 ⠀⠀⠀⠀➤ Or on mail *me@oliveer.eu*
