@@ -11,4 +11,3 @@
 
 📪 **Where to reach me.**<br>
 ⠀⠀⠀⠀➤ On discord *molive.r*.<br> 
-⠀⠀⠀⠀➤ Or on mail *me@oliveer.eu*
