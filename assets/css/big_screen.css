@@ -104,8 +104,9 @@ nav #right a:last-child {
 /* Header */
 
 header {
-    margin: 0 15%;
-    padding: 50px 0;
+    /*margin: 0 15%;
+    padding: 50px 0; */
+    height: 100dvh;
 
     display: flex;
     align-items: center;
